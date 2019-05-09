@@ -1,0 +1,1 @@
+-- I have an idea, RLS and CLS using only views and stored procedures so that it works for small systems and any sql database.
